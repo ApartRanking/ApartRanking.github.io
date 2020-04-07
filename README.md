@@ -15,5 +15,6 @@
 5. 랭킹 리스트를 화면 캡처 할 수 있습니다.
 
 선택 권한)
+
 1.android.permission.WRITE_EXTERNAL_STORAGE : 화면 캡처를 위해 저장소 쓰기 권한이 필요합니다.
 2.android.permission.READ_EXTERNAL_STORAGE : 화면 캡처를 위해 저장소 읽기 권한이 필요합니다.
